@@ -1,0 +1,15 @@
+
+3.
+import random
+random.shuffle(l) #shuffle洗牌的引用
+
+6.enumerate() #枚举方法
+
+
+
+IntroPractice中
+4.random.randrane(,) randint(,)
+7.If I remember correctly, we can assign default value as a second parameter if smth like this happened, is that right? Like my_dict.get(‘name’, None)
+8.lambda
+9.map(),filter
+
